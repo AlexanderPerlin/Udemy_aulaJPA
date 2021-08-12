@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\alexander.Ftec\Google Drive\sts-4.10.0.RELEASE\workspace-spring-tool-suite-4-4.10.0.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
+1496523889.index
+2959217149.index
+694894663.index
